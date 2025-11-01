@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Model Builder",
+  "description": "An AI-powered web app to create, edit, and forecast 5-year financial models for your business. It generates key financial statements, metrics, and charts, with an AI assistant to provide insights and suggestions.",
+  "requestFramePermissions": []
+}
